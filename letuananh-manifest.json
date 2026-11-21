@@ -3,13 +3,13 @@
   "format": "CVAT for images 1.1",
   "guideline": "Road v1.0",
   "name": "letuananh",
-  "revision": 1,
-  "created_at": "2026-11-21T04:20:47+00:00",
+  "revision": 2,
+  "created_at": "2026-11-21T05:10:14+00:00",
   "files": [
     {
       "file": "letuananh-front.zip",
-      "bytes": 9471,
-      "sha256": "4ed38f4c49585c1ff8e1b822974611e12fc43100362737bd88999fefd48a0978",
+      "bytes": 9579,
+      "sha256": "7f26b0c7e778d18dbbe8fd5421838df41b40fd2a42fe8cc20510e82428a04138",
       "contains_images": false,
       "images": 16,
       "images_unlabelled": 0,
@@ -19,14 +19,14 @@
         "drivable": 32,
         "lane": 40,
         "road_curb": 9,
-        "traffic_light": 37,
+        "traffic_light": 41,
         "traffic_sign": 54
       }
     },
     {
       "file": "letuananh-fisheye.zip",
-      "bytes": 5739,
-      "sha256": "b1eb9f8fadbabb665e14916bf2c325373821e51eb86d1ca11286d77ec8a0d443",
+      "bytes": 5783,
+      "sha256": "27adf2f9b9a04465183bd55a6cbca2fc77037156efebd30fbffcc42e65f8b046",
       "contains_images": false,
       "images": 12,
       "images_unlabelled": 0,
@@ -36,7 +36,7 @@
         "drivable": 13,
         "lane": 9,
         "road_curb": 15,
-        "traffic_light": 5,
+        "traffic_light": 6,
         "traffic_sign": 6
       }
     }
