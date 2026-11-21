@@ -1,6 +1,6 @@
 # Báo cáo cá nhân — Ngày 11
 Họ tên: Lê Tuấn Anh              Mã học viên: 2A202604064  
-Phiên bản CVAT (Help → About): **[TỰ ĐIỀN: mở CVAT → dấu ? → About]**  
+Phiên bản CVAT (Help → About): 2.81.0 (Server 2.81.0, UI 2.81.0)  
 Guideline: Road v1.0    Lần nộp (`revision` trong manifest): 2  
 Thời điểm export (ngày giờ trên CVAT): 21/11/2026, 12:09 (front, fisheye — revision 2; revision 1 lúc 11:19–11:20, lưu ở `r1/`), giờ Việt Nam    Số lần nộp lại sau Rework: 1  
 
